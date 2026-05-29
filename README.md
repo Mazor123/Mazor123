@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-I'm **Bibeky**, a dedicated IT professional with a passion for **cybersecurity**, **cloud infrastructure**, and **software development**. With a commitment to continuous learning and innovation, I'm working towards making a meaningful impact in the tech world.
+I'm **Bibeky**, a dedicated IT professional with a passion for **cybersecurity**, **cloud infrastructure**, and **software development**. With a commitment to continuous learning and innovation, I'[...]
 
 ---
 
@@ -99,12 +99,12 @@ With **10 years** in the IT industry, I have developed expertise in:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mazor123&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BBanbariya&show_icons=true&theme=radical)
 
 ---
 
 ### ⚡ Fun Fact
-I believe that great technology solutions come from understanding both the technical and human aspects of problems. When I'm not coding or securing systems, you'll find me exploring nature and seeking harmony in all things. 🌿
+I believe that great technology solutions come from understanding both the technical and human aspects of problems. When I'm not coding or securing systems, you'll find me exploring nature and se[...]
 
 ---
 
